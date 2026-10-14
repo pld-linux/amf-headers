@@ -1,13 +1,13 @@
 Summary:	AMD Advanced Media Framework (AMF) SDK headers
 Summary(pl.UTF-8):	Pliki nagłówkowe AMD Advanced Media Framework (AMF) SDK
 Name:		amf-headers
-Version:	1.5.2
+Version:	1.5.3
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 #Source0Download: https://github.com/GPUOpen-LibrariesAndSDKs/AMF/tags
 Source0:	https://github.com/GPUOpen-LibrariesAndSDKs/AMF/archive/v%{version}/AMF-%{version}.tar.gz
-# Source0-md5:	dd87a816af57f4950161eee851ee6ad8
+# Source0-md5:	914797ffacfda5ac83a5391f96bb7aa6
 URL:		https://gpuopen.com/advanced-media-framework/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
